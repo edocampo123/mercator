@@ -15,11 +15,11 @@
 ?>
 
 <head>
-	<style type="text/css">
+	<!-- <style type="text/css">
 		body  {
   background: #0a243b;
 }
-	</style>
+	</style> -->
 </head>
 <br>
 <br>
